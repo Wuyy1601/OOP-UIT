@@ -1,0 +1,441 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3227BAFA-8D68-4E62-B843-7C847173B233}|Bai01\\Bai01.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai01\\CDiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227BAFA-8D68-4E62-B843-7C847173B233}|Bai01\\Bai01.vcxproj|solutionrelative:Bai01\\CDiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3227BAFA-8D68-4E62-B843-7C847173B233}|Bai01\\Bai01.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai01\\CDiem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3227BAFA-8D68-4E62-B843-7C847173B233}|Bai01\\Bai01.vcxproj|solutionrelative:Bai01\\CDiem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68591D7E-660D-4940-B2E4-95DD391B3B02}|Bai02\\Bai02.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai02\\CDiemKhongGian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{68591D7E-660D-4940-B2E4-95DD391B3B02}|Bai02\\Bai02.vcxproj|solutionrelative:Bai02\\CDiemKhongGian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF71C1F-FC85-4BBF-B8CE-C4BFFEA7613C}|Bai05\\Bai05.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai05\\CSoPhuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AF71C1F-FC85-4BBF-B8CE-C4BFFEA7613C}|Bai05\\Bai05.vcxproj|solutionrelative:Bai05\\CSoPhuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2862ADF-09DF-474D-9167-FDB695A73601}|Bai17\\Bai17.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai17\\CDaThucTinh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2862ADF-09DF-474D-9167-FDB695A73601}|Bai17\\Bai17.vcxproj|solutionrelative:Bai17\\CDaThucTinh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2862ADF-09DF-474D-9167-FDB695A73601}|Bai17\\Bai17.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai17\\CDaThucTinh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2862ADF-09DF-474D-9167-FDB695A73601}|Bai17\\Bai17.vcxproj|solutionrelative:Bai17\\CDaThucTinh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F817B5-010D-4724-B689-45215AB13EBB}|Bai11\\Bai11.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai11\\CTamGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F817B5-010D-4724-B689-45215AB13EBB}|Bai11\\Bai11.vcxproj|solutionrelative:Bai11\\CTamGiac.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F4CDF6-AA70-44E6-A5B6-1DFD86D15FDA}|Bai09\\Bai09.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai09\\CDuongThang.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F4CDF6-AA70-44E6-A5B6-1DFD86D15FDA}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\CDuongThang.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD491B99-5B72-47B8-8242-5404C8633C9F}|Bai08\\Bai08.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai08\\CDonThuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD491B99-5B72-47B8-8242-5404C8633C9F}|Bai08\\Bai08.vcxproj|solutionrelative:Bai08\\CDonThuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD491B99-5B72-47B8-8242-5404C8633C9F}|Bai08\\Bai08.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai08\\CDonThuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BD491B99-5B72-47B8-8242-5404C8633C9F}|Bai08\\Bai08.vcxproj|solutionrelative:Bai08\\CDonThuc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9AF71C1F-FC85-4BBF-B8CE-C4BFFEA7613C}|Bai05\\Bai05.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai05\\CSoPhuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9AF71C1F-FC85-4BBF-B8CE-C4BFFEA7613C}|Bai05\\Bai05.vcxproj|solutionrelative:Bai05\\CSoPhuc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6320CD36-6700-4A61-913D-BCD7E31EB39A}|Bai12\\Bai12.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai12\\CHinhCau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6320CD36-6700-4A61-913D-BCD7E31EB39A}|Bai12\\Bai12.vcxproj|solutionrelative:Bai12\\CHinhCau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6320CD36-6700-4A61-913D-BCD7E31EB39A}|Bai12\\Bai12.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai12\\CHinhCau.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{6320CD36-6700-4A61-913D-BCD7E31EB39A}|Bai12\\Bai12.vcxproj|solutionrelative:Bai12\\CHinhCau.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F817B5-010D-4724-B689-45215AB13EBB}|Bai11\\Bai11.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai11\\CTamGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F817B5-010D-4724-B689-45215AB13EBB}|Bai11\\Bai11.vcxproj|solutionrelative:Bai11\\CTamGiac.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43E9F13-8932-4318-8B07-040D60B5888E}|Bai10\\Bai10.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai10\\CDuongTron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B43E9F13-8932-4318-8B07-040D60B5888E}|Bai10\\Bai10.vcxproj|solutionrelative:Bai10\\CDuongTron.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B43E9F13-8932-4318-8B07-040D60B5888E}|Bai10\\Bai10.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai10\\CDuongTron.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B43E9F13-8932-4318-8B07-040D60B5888E}|Bai10\\Bai10.vcxproj|solutionrelative:Bai10\\CDuongTron.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20F4CDF6-AA70-44E6-A5B6-1DFD86D15FDA}|Bai09\\Bai09.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai09\\CDuongThang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20F4CDF6-AA70-44E6-A5B6-1DFD86D15FDA}|Bai09\\Bai09.vcxproj|solutionrelative:Bai09\\CDuongThang.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580AF8C5-D292-4605-820D-0ACC97361B01}|Bai07\\Bai07.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai07\\CThoiGian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{580AF8C5-D292-4605-820D-0ACC97361B01}|Bai07\\Bai07.vcxproj|solutionrelative:Bai07\\CThoiGian.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{580AF8C5-D292-4605-820D-0ACC97361B01}|Bai07\\Bai07.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai07\\CThoiGian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{580AF8C5-D292-4605-820D-0ACC97361B01}|Bai07\\Bai07.vcxproj|solutionrelative:Bai07\\CThoiGian.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81864BA4-9C36-4611-9F68-A66909B84250}|Bai06\\Bai06.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai06\\CNgay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81864BA4-9C36-4611-9F68-A66909B84250}|Bai06\\Bai06.vcxproj|solutionrelative:Bai06\\CNgay.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81864BA4-9C36-4611-9F68-A66909B84250}|Bai06\\Bai06.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai06\\CNgay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{81864BA4-9C36-4611-9F68-A66909B84250}|Bai06\\Bai06.vcxproj|solutionrelative:Bai06\\CNgay.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615AC470-6E75-48DC-9026-51E0A8A26EEC}|Bai04\\Bai04.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\CHonSo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{615AC470-6E75-48DC-9026-51E0A8A26EEC}|Bai04\\Bai04.vcxproj|solutionrelative:Bai04\\CHonSo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615AC470-6E75-48DC-9026-51E0A8A26EEC}|Bai04\\Bai04.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{615AC470-6E75-48DC-9026-51E0A8A26EEC}|Bai04\\Bai04.vcxproj|solutionrelative:Bai04\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{615AC470-6E75-48DC-9026-51E0A8A26EEC}|Bai04\\Bai04.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\CHonSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{615AC470-6E75-48DC-9026-51E0A8A26EEC}|Bai04\\Bai04.vcxproj|solutionrelative:Bai04\\CHonSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E987508-1019-4A05-A0B9-7F25E2CA4899}|Bai03\\Bai03.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai03\\CPhanSo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E987508-1019-4A05-A0B9-7F25E2CA4899}|Bai03\\Bai03.vcxproj|solutionrelative:Bai03\\CPhanSo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E987508-1019-4A05-A0B9-7F25E2CA4899}|Bai03\\Bai03.vcxproj|C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai03\\CPhanSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3E987508-1019-4A05-A0B9-7F25E2CA4899}|Bai03\\Bai03.vcxproj|solutionrelative:Bai03\\CPhanSo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CDiemKhongGian.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai02\\CDiemKhongGian.h",
+              "RelativeDocumentMoniker": "Bai02\\CDiemKhongGian.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai02\\CDiemKhongGian.h",
+              "RelativeToolTip": "Bai02\\CDiemKhongGian.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-17T08:58:47.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CDiem.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai01\\CDiem.cpp",
+              "RelativeDocumentMoniker": "Bai01\\CDiem.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai01\\CDiem.cpp",
+              "RelativeToolTip": "Bai01\\CDiem.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-17T08:58:15.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CDiem.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai01\\CDiem.h",
+              "RelativeDocumentMoniker": "Bai01\\CDiem.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai01\\CDiem.h",
+              "RelativeToolTip": "Bai01\\CDiem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-06-17T08:57:56.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CDaThucTinh.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai17\\CDaThucTinh.cpp",
+              "RelativeDocumentMoniker": "Bai17\\CDaThucTinh.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai17\\CDaThucTinh.cpp",
+              "RelativeToolTip": "Bai17\\CDaThucTinh.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-18T05:31:44.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CDaThucTinh.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai17\\CDaThucTinh.h",
+              "RelativeDocumentMoniker": "Bai17\\CDaThucTinh.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai17\\CDaThucTinh.h",
+              "RelativeToolTip": "Bai17\\CDaThucTinh.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-18T05:31:24.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CHinhCau.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai12\\CHinhCau.cpp",
+              "RelativeDocumentMoniker": "Bai12\\CHinhCau.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai12\\CHinhCau.cpp",
+              "RelativeToolTip": "Bai12\\CHinhCau.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:32:24.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CDuongTron.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai10\\CDuongTron.h",
+              "RelativeDocumentMoniker": "Bai10\\CDuongTron.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai10\\CDuongTron.h",
+              "RelativeToolTip": "Bai10\\CDuongTron.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:15:44.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CDuongThang.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai09\\CDuongThang.cpp",
+              "RelativeDocumentMoniker": "Bai09\\CDuongThang.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai09\\CDuongThang.cpp",
+              "RelativeToolTip": "Bai09\\CDuongThang.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:11:15.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CDuongThang.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai09\\CDuongThang.h",
+              "RelativeDocumentMoniker": "Bai09\\CDuongThang.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai09\\CDuongThang.h",
+              "RelativeToolTip": "Bai09\\CDuongThang.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:09:47.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CDonThuc.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai08\\CDonThuc.h",
+              "RelativeDocumentMoniker": "Bai08\\CDonThuc.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai08\\CDonThuc.h",
+              "RelativeToolTip": "Bai08\\CDonThuc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:04:51.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CSoPhuc.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai05\\CSoPhuc.h",
+              "RelativeDocumentMoniker": "Bai05\\CSoPhuc.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai05\\CSoPhuc.h",
+              "RelativeToolTip": "Bai05\\CSoPhuc.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T14:43:39.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CSoPhuc.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai05\\CSoPhuc.cpp",
+              "RelativeDocumentMoniker": "Bai05\\CSoPhuc.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai05\\CSoPhuc.cpp",
+              "RelativeToolTip": "Bai05\\CSoPhuc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:44:09.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CDonThuc.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai08\\CDonThuc.cpp",
+              "RelativeDocumentMoniker": "Bai08\\CDonThuc.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai08\\CDonThuc.cpp",
+              "RelativeToolTip": "Bai08\\CDonThuc.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:04:50.11Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CTamGiac.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai11\\CTamGiac.h",
+              "RelativeDocumentMoniker": "Bai11\\CTamGiac.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai11\\CTamGiac.h",
+              "RelativeToolTip": "Bai11\\CTamGiac.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:24:50.799Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CDuongTron.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai10\\CDuongTron.cpp",
+              "RelativeDocumentMoniker": "Bai10\\CDuongTron.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai10\\CDuongTron.cpp",
+              "RelativeToolTip": "Bai10\\CDuongTron.cpp",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:15:53.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CTamGiac.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai11\\CTamGiac.cpp",
+              "RelativeDocumentMoniker": "Bai11\\CTamGiac.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai11\\CTamGiac.cpp",
+              "RelativeToolTip": "Bai11\\CTamGiac.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T15:26:38.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CHinhCau.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai12\\CHinhCau.h",
+              "RelativeDocumentMoniker": "Bai12\\CHinhCau.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai12\\CHinhCau.h",
+              "RelativeToolTip": "Bai12\\CHinhCau.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T15:31:40.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CThoiGian.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai07\\CThoiGian.cpp",
+              "RelativeDocumentMoniker": "Bai07\\CThoiGian.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai07\\CThoiGian.cpp",
+              "RelativeToolTip": "Bai07\\CThoiGian.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:55:49.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CThoiGian.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai07\\CThoiGian.h",
+              "RelativeDocumentMoniker": "Bai07\\CThoiGian.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai07\\CThoiGian.h",
+              "RelativeToolTip": "Bai07\\CThoiGian.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T14:54:55.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CNgay.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai06\\CNgay.cpp",
+              "RelativeDocumentMoniker": "Bai06\\CNgay.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai06\\CNgay.cpp",
+              "RelativeToolTip": "Bai06\\CNgay.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:49:20.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CNgay.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai06\\CNgay.h",
+              "RelativeDocumentMoniker": "Bai06\\CNgay.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai06\\CNgay.h",
+              "RelativeToolTip": "Bai06\\CNgay.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T14:48:23.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\Source.cpp",
+              "RelativeDocumentMoniker": "Bai04\\Source.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\Source.cpp",
+              "RelativeToolTip": "Bai04\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:26:24.619Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CHonSo.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\CHonSo.cpp",
+              "RelativeDocumentMoniker": "Bai04\\CHonSo.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\CHonSo.cpp",
+              "RelativeToolTip": "Bai04\\CHonSo.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:26:03.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "CHonSo.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\CHonSo.h",
+              "RelativeDocumentMoniker": "Bai04\\CHonSo.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai04\\CHonSo.h",
+              "RelativeToolTip": "Bai04\\CHonSo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T14:23:13.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CPhanSo.cpp",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai03\\CPhanSo.cpp",
+              "RelativeDocumentMoniker": "Bai03\\CPhanSo.cpp",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai03\\CPhanSo.cpp",
+              "RelativeToolTip": "Bai03\\CPhanSo.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-17T14:16:40.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "CPhanSo.h",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai03\\CPhanSo.h",
+              "RelativeDocumentMoniker": "Bai03\\CPhanSo.h",
+              "ToolTip": "C:\\Users\\ADMIN\\source\\repos\\23520605_BT03\\Bai03\\CPhanSo.h",
+              "RelativeToolTip": "Bai03\\CPhanSo.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-17T14:15:57.076Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
