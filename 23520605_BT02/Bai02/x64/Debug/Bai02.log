@@ -1,0 +1,6 @@
+﻿  DIEM.cpp
+C:\Users\ADMIN\source\repos\23520605_BT02\Bai02\DIEM.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Source.cpp
+C:\Users\ADMIN\source\repos\23520605_BT02\Bai02\Source.cpp(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Generating Code...
+  Bai02.vcxproj -> C:\Users\ADMIN\source\repos\23520605_BT02\x64\Debug\Bai02.exe

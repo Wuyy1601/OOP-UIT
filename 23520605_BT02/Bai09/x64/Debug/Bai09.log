@@ -1,0 +1,8 @@
+﻿  DuongTron.cpp
+C:\Users\ADMIN\source\repos\23520605_BT02\Bai09\DuongTron.cpp(34,19): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+C:\Users\ADMIN\source\repos\23520605_BT02\Bai09\DuongTron.cpp(39,18): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Source.cpp
+C:\Users\ADMIN\source\repos\23520605_BT02\Bai09\Source.cpp(7,10): warning C4101: 'y': unreferenced local variable
+C:\Users\ADMIN\source\repos\23520605_BT02\Bai09\Source.cpp(7,7): warning C4101: 'x': unreferenced local variable
+  Generating Code...
+  Bai09.vcxproj -> C:\Users\ADMIN\source\repos\23520605_BT02\x64\Debug\Bai09.exe
