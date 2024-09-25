@@ -1,0 +1,7 @@
+﻿  CDaThuc.cpp
+C:\Users\ADMIN\source\repos\23520605_BT06\Bai04\CDaThuc.cpp(60,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ADMIN\source\repos\23520605_BT06\Bai04\CDaThuc.cpp(82,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ADMIN\source\repos\23520605_BT06\Bai04\CDaThuc.cpp(147,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ADMIN\source\repos\23520605_BT06\Bai04\CDaThuc.cpp(105,1): warning C4172: returning address of local variable or temporary: temp
+C:\Users\ADMIN\source\repos\23520605_BT06\Bai04\CDaThuc.cpp(194,1): warning C4172: returning address of local variable or temporary: temp
+  Bai04.vcxproj -> C:\Users\ADMIN\source\repos\23520605_BT06\x64\Debug\Bai04.exe
